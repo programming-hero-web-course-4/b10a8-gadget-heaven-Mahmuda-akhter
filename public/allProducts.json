@@ -1,0 +1,218 @@
+[
+    {
+        "product_id": "P006",
+        "product_title": "Apple MacBook Pro 14",
+        "product_image": "https://i.ibb.co.com/vH8bvqq/9.png",
+        "category": "Laptops",
+        "price": 1999,
+        "description": "Powerful performance with the M2 Pro chip.",
+        "specification": [
+            "14-inch Liquid Retina XDR display",
+            "M2 Pro chip",
+            "Up to 32GB unified memory",
+            "MagSafe charging",
+            "Thunderbolt 4 ports"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "color": "Space Gray"
+    },
+    {
+        "product_id": "P007",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://i.ibb.co.com/vH8bvqq/9.png",
+        "category": "Laptops",
+        "price": 1199,
+        "description": "An innovative, thin, and powerful ultrabook.",
+        "specification": [
+            "13.4-inch FHD+ display",
+            "Intel Core i7-1360P",
+            "Up to 16GB RAM",
+            "Ultra-lightweight design",
+            "InfinityEdge display"
+        ],
+        "availability": false,
+        "rating": 4.5,
+        "color": "Platinum Silver"
+    },
+    {
+        "product_id": "P009",
+        "product_title": "HP Spectre x360 14",
+        "product_image": "https://i.ibb.co.com/vH8bvqq/9.png",
+        "category": "Laptops",
+        "price": 1599,
+        "description": "A high-end 2-in-1 laptop with stunning design.",
+        "specification": [
+            "13.5-inch OLED display",
+            "Intel Core i7-1165G7",
+            "Up to 16GB RAM",
+            "360-degree hinge",
+            "Fast charge"
+        ],
+        "availability": false,
+        "rating": 4.8,
+        "color": "Nightfall Black"
+    },
+    {
+        "product_id": "P013",
+        "product_title": "Lenovo Yoga 9i",
+        "product_image": "https://i.ibb.co.com/vH8bvqq/9.png",
+        "category": "Laptops",
+        "price": 1399,
+        "description": "Premium 2-in-1 laptop with a stunning design.",
+        "specification": [
+            "14-inch OLED display",
+            "Intel Core i7-1360P",
+            "Up to 16GB RAM",
+            "360-degree hinge",
+            "Pen support"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "color": "Slate Gray"
+    },
+    {
+        "product_id": "P014",
+        "product_title": "Asus ROG Zephyrus G14",
+        "product_image": "https://i.ibb.co.com/vH8bvqq/9.png",
+        "category": "Laptops",
+        "price": 1599,
+        "description": "Compact and powerful gaming laptop.",
+        "specification": [
+            "14-inch QHD display",
+            "AMD Ryzen 9 6900HS",
+            "Up to 32GB RAM",
+            "GeForce RTX 3060",
+            "Ultra-portable design"
+        ],
+        "availability": false,
+        "rating": 4.8,
+        "color": "Moonlight White"
+    },
+    {
+        "product_id": "P015",
+        "product_title": "Microsoft Surface Laptop 5",
+        "product_image": "https://i.ibb.co.com/vH8bvqq/9.png",
+        "category": "Laptops",
+        "price": 1299,
+        "description": "Sleek and versatile laptop with a PixelSense touchscreen.",
+        "specification": [
+            "15-inch PixelSense display",
+            "Intel Core i7-1265U",
+            "Up to 16GB RAM",
+            "Lightweight design",
+            "All-day battery life"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "color": "Platinum"
+    },
+    {
+        "product_id": "P010",
+        "product_title": "Apple Watch Series 8",
+        "product_image": "https://i.ibb.co.com/3hfypQL/xiaomi-redmi-watch-4-smart-watch-1.jpg",
+        "category": "Smart Watches",
+        "price": 399,
+        "description": "The most advanced Apple Watch yet.",
+        "specification": [
+            "Always-on Retina display",
+            "Heart rate sensor",
+            "Blood oxygen monitor",
+            "ECG app",
+            "Water resistant to 50m"
+        ],
+        "availability": false,
+        "rating": 4.8,
+        "color": "Midnight"
+    },
+    {
+        "product_id": "P011",
+        "product_title": "Garmin Fenix 7 Solar",
+        "product_image": "https://i.ibb.co.com/3hfypQL/xiaomi-redmi-watch-4-smart-watch-1.jpg",
+        "category": "Smart Watches",
+        "price": 799,
+        "description": "Premium multisport GPS smartwatch with solar charging.",
+        "specification": [
+            "Solar-powered",
+            "Pulse Ox sensor",
+            "Built-in GPS",
+            "Up to 18 days battery life",
+            "Rugged design"
+        ],
+        "availability": false,
+        "rating": 4.9,
+        "color": "Black"
+    },
+    {
+        "product_id": "P001",
+        "product_title": "Apple iPhone 15 Pro Max",
+        "product_image": "https://i.ibb.co.com/xfrJMvL/images.jpg",
+        "category": "iPhone",
+        "price": 1299,
+        "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+        "specification": [
+            "6.7-inch Super Retina XDR display",
+            "A17 Bionic chip",
+            "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+            "LiDAR Scanner",
+            "Up to 2TB storage"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "color": "Silver"
+    },
+    {
+        "product_id": "P008",
+        "product_title": "Apple iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/xfrJMvL/images.jpg",
+        "category": "iPhone",
+        "price": 999,
+        "description": "iPhone 14 Pro with amazing camera and display.",
+        "specification": [
+            "6.1-inch Super Retina XDR display",
+            "A16 Bionic chip",
+            "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+            "Face ID",
+            "Up to 1TB storage"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "color": "Gold"
+    },
+    {
+        "product_id": "P016",
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co.com/Kwc9yKX/1-unlocked-j727-bk-v-front041018.webp",
+        "category": "Phones",
+        "price": 1199,
+        "description": "Discover the power of Galaxy with the S23 Ultra.",
+        "specification": [
+            "6.8-inch Dynamic AMOLED 2X display",
+            "Snapdragon 8 Gen 2",
+            "Quad-camera setup (200MP Main, 10MP Telephoto, 12MP Ultrawide)",
+            "S Pen support",
+            "Up to 1TB storage"
+        ],
+        "availability": false,
+        "rating": 4.7,
+        "color": "Phantom Black"
+    },
+    {
+        "product_id": "P017",
+        "product_title": "Google Pixel 8 Pro",
+        "product_image": "https://i.ibb.co.com/Kwc9yKX/1-unlocked-j727-bk-v-front041018.webp",
+        "category": "Phones",
+        "price": 999,
+        "description": "The ultimate Google phone with AI-powered features.",
+        "specification": [
+            "6.7-inch OLED display",
+            "Google Tensor G3",
+            "Triple-camera system (50MP Main, 12MP Telephoto, 12MP Ultrawide)",
+            "Face Unlock",
+            "Up to 512GB storage"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "color": "Porcelain"
+    }
+]
